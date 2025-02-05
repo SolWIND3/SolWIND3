@@ -1,8 +1,9 @@
-<h1 align="center"> About Me </h1> 
+<h1 align="center"> THE ABOUT ME SECTION </h1> 
 
 <h1 align="center"> Heyo, i'm Rich Harry Sun Win D. Tisel ☀️
  </h1> 
-<h2 align="center">I am currently an Information Technology Student Hailing from the Philippines.</h2>
+<h3 align="center">I am currently an Information Technology Student Hailing from the Philippines.</h3>
+<h2></h2>
 
 - 🔧 I’m currently working on <b> improving my skills in programming </b>
 - 🪦 I’m currently (begrudgendly) learning <b> full stack web development as well as learning scripting </b>
