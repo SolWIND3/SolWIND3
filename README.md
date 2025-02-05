@@ -7,7 +7,7 @@
 
 - 🔧 I’m currently working on <b> improving my skills in programming </b>
 - 🪦 I’m currently (begrudgendly) learning <b> full stack web development as well as learning scripting </b>
-- ⚡ When i'm free, i try to keep up with the recent technology news, and endulging in my hobbies.
+- ⚡ When i'm free, i try to keep up with the recent technology news, and indulging in my hobbies (when i have enough time that is).
 - 🗄️ Electronic Gremlin since 2005.
 - 📋 Reach me through my email @ harry.desamito@gmail.com
 
