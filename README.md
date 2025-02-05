@@ -7,7 +7,7 @@
 - 🔧 I’m currently working on <b> improving my skills in programming </b>
 - 🪦 I’m currently (begrudgendly) learning <b> full stack web development </b>
 - ⚡ During my free time i try to keep up with the recent technology news, and endulging in my hobbies.
-- Reach me through my email @ harry.desamito@gmail.com
+- 📋 Reach me through my email @ harry.desamito@gmail.com
 
 <h1 align="center"> "May you find your book in this place." 📚
 </sub></sup>
