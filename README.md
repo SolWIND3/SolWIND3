@@ -9,11 +9,25 @@
 - ⚡ During my free time i try to keep up with the recent technology news, and endulging in my hobbies.
 - 🗄️ Electronic Gremlin since 2005.
 - 📋 Reach me through my email @ harry.desamito@gmail.com
-<p align="left" dir="auto">
-<h3 class="heading-element" align="left" dir="auto">Find me on:</h3>
+<p align="center" dir="auto">
+<h3 class="heading-element" align="center" dir="auto">Find me on:</h3>
  <a href="https://www.facebook.com/solarwindupper/" rel="nofollow">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solarwindupper" height="50" width="40" style="max-width: 100%; ">
 </p>
+  
+<h2 align="center"> The Programming Language & Stats Part ✒️📊
+ </h2> 
+ <p align="center">
+<a href="https://github.com/SolWIND3/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SolWIND3&theme=cobalt" />
+</a>
+ </p>
+ <p align="center">
+<a href="https://github.com/SolWIND3/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SolWIND3&layout=compact&langs_count=8&card_width=200&theme=cobalt" />
+</a>
+ </p>
+
  <h2 align="center"> Tools & Lang 💌
  </h2> 
   <p align="center">
@@ -48,20 +62,6 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="max-width: 100%;">
   </a>
 </p>
-
-  
-<h2 align="center"> The Programming Language & Stats Part ✒️📊
- </h2> 
- <p align="center">
-<a href="https://github.com/SolWIND3/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SolWIND3&theme=cobalt" />
-</a>
- </p>
- <p align="center">
-<a href="https://github.com/SolWIND3/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SolWIND3&layout=compact&langs_count=8&card_width=200&theme=cobalt" />
-</a>
- </p>
 
 <h3 align="center"> "May you find your book in this place." 📚
 </h3>
