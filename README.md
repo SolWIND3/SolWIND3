@@ -57,7 +57,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SolWIND3&theme=cobalt" />
 </a>
  </p>
-<h2></h2>
  <p align="center">
 <a href="https://github.com/SolWIND3/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SolWIND3&layout=compact&langs_count=8&card_width=200&theme=cobalt" />
