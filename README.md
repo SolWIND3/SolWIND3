@@ -52,6 +52,7 @@
   
 <h2 align="center"> The Programming Language & Stats Part ✒️📊
  </h2> 
+ 
 <a href="https://github.com/SolWIND3/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SolWIND3&theme=cobalt" />
 </a>
