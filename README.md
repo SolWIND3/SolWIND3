@@ -5,7 +5,7 @@
 <h2>I am currently an Information Technology Hailing from the Philippines.</h2>
 
 - 🔧 I’m currently working on <b> improving my skills in programming </b>
-- 🪦 I’m currently (begrudgendly) learning <b> full stack web development </b>
+- 🪦 I’m currently (begrudgendly) learning <b> full stack web development as well as learning scripting </b>
 - ⚡ During my free time i try to keep up with the recent technology news, and endulging in my hobbies.
 - 📋 Reach me through my email @ harry.desamito@gmail.com
 
