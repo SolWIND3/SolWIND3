@@ -6,11 +6,12 @@
 
 - 🔧 I’m currently working on <b> improving my skills in programming </b>
 - 🪦 I’m currently (begrudgendly) learning <b> full stack web development as well as learning scripting </b>
-- ⚡ During my free time i try to keep up with the recent technology news, and endulging in my hobbies.
+- ⚡ When i'm free, i try to keep up with the recent technology news, and endulging in my hobbies.
 - 🗄️ Electronic Gremlin since 2005.
 - 📋 Reach me through my email @ harry.desamito@gmail.com
+
+ <h3 class="heading-element" align="center" dir="auto">Find me on</h3>
 <p align="center" dir="auto">
-<h3 class="heading-element" align="center" dir="auto">Find me on:</h3>
  <a href="https://www.facebook.com/solarwindupper/" rel="nofollow">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solarwindupper" height="50" width="40" style="max-width: 100%; ">
 </p>
