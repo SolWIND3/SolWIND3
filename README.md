@@ -1,5 +1,5 @@
-<center> ## About Me </center>
-<center>"May You Find Your Book In This Place." 📚 </center>## 
+## About Me </center>
+## "May You Find Your Book In This Place." 📚
 
 <!--
 **SolWIND3/SolWIND3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
