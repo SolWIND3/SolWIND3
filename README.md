@@ -1,6 +1,6 @@
 <h1 align="center"> About Me </h1> 
 
-<h1 align="center"> Heyo, i'm Rich Harry Sun Win D. Tisel
+<h1 align="center"> Heyo, i'm Rich Harry Sun Win D. Tisel ☀️
  </h1> 
 <h2 align="center">I am currently an Information Technology Student Hailing from the Philippines.</h2>
 
