@@ -1,6 +1,21 @@
-## About Me </center>
-## "May You Find Your Book In This Place." 📚
+<h1 align="center"> About Me </h1> 
 
+<h1 align="center"> Heyo, i'm Rich Harry Sun Win D. Tisel
+ </h1> 
+<h2>I am currently an Information Technology Hailing from the Philippines.</h2>
+
+- 🔧 I’m currently working on <b> improving my skills in programming </b>
+- 🪦 I’m currently (begrudgendly) learning <b> full stack web development </b>
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<h1 align="center"> "May You Find Your Book In This Place." 📚
+ </h1> 
+ 
 <!--
 **SolWIND3/SolWIND3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
