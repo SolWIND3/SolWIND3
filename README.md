@@ -7,10 +7,11 @@
 - 🔧 I’m currently working on <b> improving my skills in programming </b>
 - 🪦 I’m currently (begrudgendly) learning <b> full stack web development as well as learning scripting </b>
 - ⚡ During my free time i try to keep up with the recent technology news, and endulging in my hobbies.
+- 🗄️ Electronic Gremlin since 2005.
 - 📋 Reach me through my email @ harry.desamito@gmail.com
 
-<h1 align="center"> "May you find your book in this place." 📚
-</sub></sup>
+<h3 align="center"> "May you find your book in this place." 📚
+</h3>
  
 <!--
 **SolWIND3/SolWIND3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
