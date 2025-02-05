@@ -50,18 +50,20 @@
 </p>
 
   
-<h2 align="center"> The Programming Language & Stats Part ✒️
+<h2 align="center"> The Programming Language & Stats Part ✒️📊
  </h2> 
 <a href="https://github.com/SolWIND3/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SolWIND3&theme=cobalt" />
 </a>
 <a href="https://github.com/SolWIND3/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SolWIND3&layout=compact&langs_count=8&card_width=200&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SolWIND3&layout=compact&langs_count=8&card_width=300&theme=cobalt" />
 </a>
 
 
 <h3 align="center"> "May you find your book in this place." 📚
 </h3>
+
+<sup><sub>One or more projects may not be on this page, they have either been completely lost or i just forgot to upload them lol</sub></sup>
  
 <!--
 **SolWIND3/SolWIND3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
